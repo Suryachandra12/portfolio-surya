@@ -24,7 +24,7 @@ const Contact = () => {
           <div className="flex items-center gap-3 text-gray-800 dark:text-white">
             <FaLinkedin className="text-blue-700" />
             <a
-              href="https://ww.linkedin.com/in/surya-chandra-9a3563179"
+              href="https://www.linkedin.com/in/surya-chandra-9a3563179"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
