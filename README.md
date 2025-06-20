@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+# 💼 Surya Allam – Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website built with **React** and **Tailwind CSS**.  
+This site showcases my projects, skills, experience, and contact information.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+🌐 [View Portfolio Website](https://suryachandra12.github.io/portfolio-surya)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Tech Stack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- React.js (CRA)
+- Tailwind CSS
+- React Icons
+- React Scroll
+- GitHub Pages (Deployment)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧠 Features
 
-### `npm run build`
+- Clean, responsive UI for all devices
+- Dark mode toggle
+- Projects section with tech badges
+- About me, skills, and contact sections
+- Smooth scroll navigation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📂 Folder Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+my-app/
+├── public/
+│   └── profile.jpg
+├── src/
+│   ├── Components/
+│   │   ├── Profile.tsx
+│   │   ├── Skills.tsx
+│   │   ├── Projects.tsx
+│   │   └── Contact.tsx
+│   ├── App.tsx
+│   └── index.tsx
+├── tailwind.config.js
+└── README.md
+```
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🛠️ How to Run Locally
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/Suryachandra12/portfolio-surya.git
+cd portfolio-surya
+npm install
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🧾 License
 
-## Learn More
+This project is open-source. Feel free to fork, use, or build on top of it.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🙋‍♂️ Author
+
+**Surya Allam**  
+React + Redux Developer  
+📧 naniprasadsurya@gmail.com  
+📱 +91 7995253407 
+🔗 [LinkedIn](https://ww.linkedin.com/in/surya-chandra-9a3563179)
